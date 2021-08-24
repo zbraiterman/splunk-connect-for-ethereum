@@ -105,8 +105,8 @@ For this project, we require that at least 1 approval is given and a build from 
 
 We could always use improvements to our documentation! Anyone can contribute to these docs - whether you’re new to the project, you’ve been around a long time, and whether you self-identify as a developer, an end user, or someone who just can’t stand seeing typos. What exactly is needed?
 
-1. More complementary documentation. Have you perhaps found something unclear?
+1. More complementary documentation - Have you perhaps found something unclear?
 2. More examples or generic templates that others can use.
-3. Blog posts, articles and such – they’re all very appreciated.
+3. Blog posts, articles and such - They’re all very appreciated.
 
-You can also edit documentation files directly in the GitHub web interface, without creating a local copy. This can be convenient for small typos or grammer fixes.
+You can also edit documentation files directly in the GitHub web interface, without creating a local copy. This can be convenient for small typos or grammar fixes.
